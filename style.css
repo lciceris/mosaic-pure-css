@@ -16,19 +16,19 @@
     column-width: 30%;
 } 
 
-.box.one {
+.one {
     height: 190px;
     background-color: #d77575;
     margin-bottom: 10px;
 }
 
-.box.two {
+.two {
     height: 290px;
     background-color: #dcbc4c;
     margin-bottom: 10px;
 }
 
-.box.three {
+.three {
     background-color: #a3ca3b;
     height: 390px;
     margin-bottom: 10px;
