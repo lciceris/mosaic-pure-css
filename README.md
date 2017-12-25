@@ -1,4 +1,4 @@
-# Mosaico Pure CSS
+# Mosaico Pure CSS!
 
 **Example in CodePen**
 
